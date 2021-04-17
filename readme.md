@@ -95,7 +95,3 @@
 ```javascript
 http://127.0.0.1:5500/index.html#slide=1
 ```
-
-9. Create slides with appropriate styling and tooling. 
-- [ ] Implement `font-awesome`
-- [ ] Implement `bootstrap`
