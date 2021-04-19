@@ -106,10 +106,12 @@ http://127.0.0.1:5500/index.html#slide=1
         crossorigin="anonymous" />
 ```
 
-- [ ] Input the Google Fonts link from the Github Webslides index.html file into the your `index.html file`
+- [ ] Input the Google Fonts consistent with `Webslides` templating into `index.html file`
 
 ```html 
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext"
         rel="stylesheet">
 ```
+
+> NOTE: This step is optional and you can utilize any font stying that you want. This Google Font simply maintains consistency with the font styling showning in the Github Project demos.
